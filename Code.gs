@@ -4,7 +4,7 @@
 // ============================================================
 
 // ====== KONFIGURASI — GANTI DENGAN ID SPREADSHEET ANDA ======
-const SPREADSHEET_ID = 'ISI_ID_SPREADSHEET_ANDA_DISINI';
+const SPREADSHEET_ID = '1r6JnLRhJ4hh5yNuo8du1Jp-3a3DoabFO_OuTElgoDHc';
 // Contoh: '1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms'
 
 const SHEET_ANGGOTA   = 'Anggota';

@@ -4,7 +4,7 @@
 // ============================================================
 
 // ====== KONFIGURASI — GANTI DENGAN ID SPREADSHEET ANDA ======
-const SPREADSHEET_ID = '1dCzSI_JjfT9Z_5yRP4skc0kuwjhqRBFOsAT3h4NdXGA';
+const SPREADSHEET_ID = '1P0bHtMQ6zmHOexSSGQdHf4xcoX1Ia6p_XCoyeI4Hu4w';
 // Contoh: '1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms'
 
 const SHEET_ANGGOTA   = 'Anggota';
